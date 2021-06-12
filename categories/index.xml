@@ -1,0 +1,28 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories - ronn</title>
+    <link>https://reizones.github.io/venti/categories/</link>
+    <description>Recent content in Categories on ronn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Jun 2021 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://reizones.github.io/venti/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Background</title>
+      <link>https://reizones.github.io/venti/categories/background/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://reizones.github.io/venti/categories/background/</guid>
+      <description></description>
+    </item><item>
+      <title>Wallpapers</title>
+      <link>https://reizones.github.io/venti/categories/wallpapers/</link>
+      <pubDate>Sat, 12 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://reizones.github.io/venti/categories/wallpapers/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
